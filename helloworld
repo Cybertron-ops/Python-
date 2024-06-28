@@ -1,1 +1,4 @@
-Print ("hello world ")
+
+print ("hello world ")
+
+print ("this is rishi, there was error in your code")
